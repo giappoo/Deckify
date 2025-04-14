@@ -1,0 +1,7607 @@
+[
+  {
+    "id": "A1-001",
+    "name": "Bulbasaur",
+    "image": "images/A1-001.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-002",
+    "name": "Ivysaur",
+    "image": "images/A1-002.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Bulbasaur"
+  },
+  {
+    "id": "A1-003",
+    "name": "Venusaur",
+    "image": "images/A1-003.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Ivysaur"
+  },
+  {
+    "id": "A1-004",
+    "name": "Venusaur ex",
+    "image": "images/A1-004.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Ivysaur"
+  },
+  {
+    "id": "A1-005",
+    "name": "Caterpie",
+    "image": "images/A1-005.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-006",
+    "name": "Metapod",
+    "image": "images/A1-006.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Caterpie"
+  },
+  {
+    "id": "A1-007",
+    "name": "Butterfree",
+    "image": "images/A1-007.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Metapod"
+  },
+  {
+    "id": "A1-008",
+    "name": "Weedle",
+    "image": "images/A1-008.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-009",
+    "name": "Kakuna",
+    "image": "images/A1-009.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Weedle"
+  },
+  {
+    "id": "A1-010",
+    "name": "Beedrill",
+    "image": "images/A1-010.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Kakuna"
+  },
+  {
+    "id": "A1-011",
+    "name": "Oddish",
+    "image": "images/A1-011.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-012",
+    "name": "Gloom",
+    "image": "images/A1-012.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Oddish"
+  },
+  {
+    "id": "A1-013",
+    "name": "Vileplume",
+    "image": "images/A1-013.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Gloom"
+  },
+  {
+    "id": "A1-014",
+    "name": "Paras",
+    "image": "images/A1-014.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-015",
+    "name": "Parasect",
+    "image": "images/A1-015.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Paras"
+  },
+  {
+    "id": "A1-016",
+    "name": "Venonat",
+    "image": "images/A1-016.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-017",
+    "name": "Venomoth",
+    "image": "images/A1-017.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Venonat"
+  },
+  {
+    "id": "A1-018",
+    "name": "Bellsprout",
+    "image": "images/A1-018.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-019",
+    "name": "Weepinbell",
+    "image": "images/A1-019.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Bellsprout"
+  },
+  {
+    "id": "A1-020",
+    "name": "Victreebel",
+    "image": "images/A1-020.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Weepinbell"
+  },
+  {
+    "id": "A1-021",
+    "name": "Exeggcute",
+    "image": "images/A1-021.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-022",
+    "name": "Exeggutor",
+    "image": "images/A1-022.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Exeggcute"
+  },
+  {
+    "id": "A1-023",
+    "name": "Exeggutor ex",
+    "image": "images/A1-023.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Exeggcute"
+  },
+  {
+    "id": "A1-024",
+    "name": "Tangela",
+    "image": "images/A1-024.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-025",
+    "name": "Scyther",
+    "image": "images/A1-025.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-026",
+    "name": "Pinsir",
+    "image": "images/A1-026.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-027",
+    "name": "Cottonee",
+    "image": "images/A1-027.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-028",
+    "name": "Whimsicott",
+    "image": "images/A1-028.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Cottonee"
+  },
+  {
+    "id": "A1-029",
+    "name": "Petilil",
+    "image": "images/A1-029.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-030",
+    "name": "Lilligant",
+    "image": "images/A1-030.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Petilil"
+  },
+  {
+    "id": "A1-031",
+    "name": "Skiddo",
+    "image": "images/A1-031.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-032",
+    "name": "Gogoat",
+    "image": "images/A1-032.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Skiddo"
+  },
+  {
+    "id": "A1-033",
+    "name": "Charmander",
+    "image": "images/A1-033.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-034",
+    "name": "Charmeleon",
+    "image": "images/A1-034.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Charmander"
+  },
+  {
+    "id": "A1-035",
+    "name": "Charizard",
+    "image": "images/A1-035.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Charmeleon"
+  },
+  {
+    "id": "A1-036",
+    "name": "Charizard ex",
+    "image": "images/A1-036.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Charmeleon"
+  },
+  {
+    "id": "A1-037",
+    "name": "Vulpix",
+    "image": "images/A1-037.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-038",
+    "name": "Ninetales",
+    "image": "images/A1-038.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Vulpix"
+  },
+  {
+    "id": "A1-039",
+    "name": "Growlithe",
+    "image": "images/A1-039.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-040",
+    "name": "Arcanine",
+    "image": "images/A1-040.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Growlithe"
+  },
+  {
+    "id": "A1-041",
+    "name": "Arcanine ex",
+    "image": "images/A1-041.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Growlithe"
+  },
+  {
+    "id": "A1-042",
+    "name": "Ponyta",
+    "image": "images/A1-042.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-043",
+    "name": "Rapidash",
+    "image": "images/A1-043.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Ponyta"
+  },
+  {
+    "id": "A1-044",
+    "name": "Magmar",
+    "image": "images/A1-044.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-045",
+    "name": "Flareon",
+    "image": "images/A1-045.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A1-046",
+    "name": "Moltres",
+    "image": "images/A1-046.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-047",
+    "name": "Moltres ex",
+    "image": "images/A1-047.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-048",
+    "name": "Heatmor",
+    "image": "images/A1-048.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-049",
+    "name": "Salandit",
+    "image": "images/A1-049.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-050",
+    "name": "Salazzle",
+    "image": "images/A1-050.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Salandit"
+  },
+  {
+    "id": "A1-051",
+    "name": "Sizzlipede",
+    "image": "images/A1-051.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-052",
+    "name": "Centiskorch",
+    "image": "images/A1-052.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Sizzlipede"
+  },
+  {
+    "id": "A1-053",
+    "name": "Squirtle",
+    "image": "images/A1-053.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-054",
+    "name": "Wartortle",
+    "image": "images/A1-054.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Squirtle"
+  },
+  {
+    "id": "A1-055",
+    "name": "Blastoise",
+    "image": "images/A1-055.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Wartortle"
+  },
+  {
+    "id": "A1-056",
+    "name": "Blastoise ex",
+    "image": "images/A1-056.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Wartortle"
+  },
+  {
+    "id": "A1-057",
+    "name": "Psyduck",
+    "image": "images/A1-057.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-058",
+    "name": "Golduck",
+    "image": "images/A1-058.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Psyduck"
+  },
+  {
+    "id": "A1-059",
+    "name": "Poliwag",
+    "image": "images/A1-059.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-060",
+    "name": "Poliwhirl",
+    "image": "images/A1-060.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Poliwag"
+  },
+  {
+    "id": "A1-061",
+    "name": "Poliwrath",
+    "image": "images/A1-061.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Poliwhirl"
+  },
+  {
+    "id": "A1-062",
+    "name": "Tentacool",
+    "image": "images/A1-062.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-063",
+    "name": "Tentacruel",
+    "image": "images/A1-063.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Tentacool"
+  },
+  {
+    "id": "A1-064",
+    "name": "Seel",
+    "image": "images/A1-064.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-065",
+    "name": "Dewgong",
+    "image": "images/A1-065.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Seel"
+  },
+  {
+    "id": "A1-066",
+    "name": "Shellder",
+    "image": "images/A1-066.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-067",
+    "name": "Cloyster",
+    "image": "images/A1-067.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Shellder"
+  },
+  {
+    "id": "A1-068",
+    "name": "Krabby",
+    "image": "images/A1-068.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-069",
+    "name": "Kingler",
+    "image": "images/A1-069.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Krabby"
+  },
+  {
+    "id": "A1-070",
+    "name": "Horsea",
+    "image": "images/A1-070.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-071",
+    "name": "Seadra",
+    "image": "images/A1-071.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Horsea"
+  },
+  {
+    "id": "A1-072",
+    "name": "Goldeen",
+    "image": "images/A1-072.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-073",
+    "name": "Seaking",
+    "image": "images/A1-073.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Goldeen"
+  },
+  {
+    "id": "A1-074",
+    "name": "Staryu",
+    "image": "images/A1-074.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-075",
+    "name": "Starmie",
+    "image": "images/A1-075.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Staryu"
+  },
+  {
+    "id": "A1-076",
+    "name": "Starmie ex",
+    "image": "images/A1-076.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Staryu"
+  },
+  {
+    "id": "A1-077",
+    "name": "Magikarp",
+    "image": "images/A1-077.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-078",
+    "name": "Gyarados",
+    "image": "images/A1-078.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Magikarp"
+  },
+  {
+    "id": "A1-079",
+    "name": "Lapras",
+    "image": "images/A1-079.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-080",
+    "name": "Vaporeon",
+    "image": "images/A1-080.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A1-081",
+    "name": "Omanyte",
+    "image": "images/A1-081.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Helix Fossil"
+  },
+  {
+    "id": "A1-082",
+    "name": "Omastar",
+    "image": "images/A1-082.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Omanyte"
+  },
+  {
+    "id": "A1-083",
+    "name": "Articuno",
+    "image": "images/A1-083.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-084",
+    "name": "Articuno ex",
+    "image": "images/A1-084.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-085",
+    "name": "Ducklett",
+    "image": "images/A1-085.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-086",
+    "name": "Swanna",
+    "image": "images/A1-086.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Ducklett"
+  },
+  {
+    "id": "A1-087",
+    "name": "Froakie",
+    "image": "images/A1-087.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-088",
+    "name": "Frogadier",
+    "image": "images/A1-088.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Froakie"
+  },
+  {
+    "id": "A1-089",
+    "name": "Greninja",
+    "image": "images/A1-089.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Frogadier"
+  },
+  {
+    "id": "A1-090",
+    "name": "Pyukumuku",
+    "image": "images/A1-090.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-091",
+    "name": "Bruxish",
+    "image": "images/A1-091.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-092",
+    "name": "Snom",
+    "image": "images/A1-092.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-093",
+    "name": "Frosmoth",
+    "image": "images/A1-093.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Snom"
+  },
+  {
+    "id": "A1-094",
+    "name": "Pikachu",
+    "image": "images/A1-094.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-095",
+    "name": "Raichu",
+    "image": "images/A1-095.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Pikachu"
+  },
+  {
+    "id": "A1-096",
+    "name": "Pikachu ex",
+    "image": "images/A1-096.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-097",
+    "name": "Magnemite",
+    "image": "images/A1-097.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-098",
+    "name": "Magneton",
+    "image": "images/A1-098.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Magnemite"
+  },
+  {
+    "id": "A1-099",
+    "name": "Voltorb",
+    "image": "images/A1-099.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-100",
+    "name": "Electrode",
+    "image": "images/A1-100.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Voltorb"
+  },
+  {
+    "id": "A1-101",
+    "name": "Electabuzz",
+    "image": "images/A1-101.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-102",
+    "name": "Jolteon",
+    "image": "images/A1-102.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A1-103",
+    "name": "Zapdos",
+    "image": "images/A1-103.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-104",
+    "name": "Zapdos ex",
+    "image": "images/A1-104.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-105",
+    "name": "Blitzle",
+    "image": "images/A1-105.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-106",
+    "name": "Zebstrika",
+    "image": "images/A1-106.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Blitzle"
+  },
+  {
+    "id": "A1-107",
+    "name": "Tynamo",
+    "image": "images/A1-107.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-108",
+    "name": "Eelektrik",
+    "image": "images/A1-108.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Tynamo"
+  },
+  {
+    "id": "A1-109",
+    "name": "Eelektross",
+    "image": "images/A1-109.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Lightning",
+    "evolvesfrom": "Eelektrik"
+  },
+  {
+    "id": "A1-110",
+    "name": "Helioptile",
+    "image": "images/A1-110.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-111",
+    "name": "Heliolisk",
+    "image": "images/A1-111.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Helioptile"
+  },
+  {
+    "id": "A1-112",
+    "name": "Pincurchin",
+    "image": "images/A1-112.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-113",
+    "name": "Clefairy",
+    "image": "images/A1-113.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-114",
+    "name": "Clefable",
+    "image": "images/A1-114.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Clefairy"
+  },
+  {
+    "id": "A1-115",
+    "name": "Abra",
+    "image": "images/A1-115.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-116",
+    "name": "Kadabra",
+    "image": "images/A1-116.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Abra"
+  },
+  {
+    "id": "A1-117",
+    "name": "Alakazam",
+    "image": "images/A1-117.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Kadabra"
+  },
+  {
+    "id": "A1-118",
+    "name": "Slowpoke",
+    "image": "images/A1-118.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-119",
+    "name": "Slowbro",
+    "image": "images/A1-119.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Slowpoke"
+  },
+  {
+    "id": "A1-120",
+    "name": "Gastly",
+    "image": "images/A1-120.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-121",
+    "name": "Haunter",
+    "image": "images/A1-121.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Gastly"
+  },
+  {
+    "id": "A1-122",
+    "name": "Gengar",
+    "image": "images/A1-122.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Haunter"
+  },
+  {
+    "id": "A1-123",
+    "name": "Gengar ex",
+    "image": "images/A1-123.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Haunter"
+  },
+  {
+    "id": "A1-124",
+    "name": "Drowzee",
+    "image": "images/A1-124.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-125",
+    "name": "Hypno",
+    "image": "images/A1-125.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Drowzee"
+  },
+  {
+    "id": "A1-126",
+    "name": "Mr. Mime",
+    "image": "images/A1-126.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-127",
+    "name": "Jynx",
+    "image": "images/A1-127.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-128",
+    "name": "Mewtwo",
+    "image": "images/A1-128.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-129",
+    "name": "Mewtwo ex",
+    "image": "images/A1-129.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-130",
+    "name": "Ralts",
+    "image": "images/A1-130.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-131",
+    "name": "Kirlia",
+    "image": "images/A1-131.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Ralts"
+  },
+  {
+    "id": "A1-132",
+    "name": "Gardevoir",
+    "image": "images/A1-132.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Kirlia"
+  },
+  {
+    "id": "A1-133",
+    "name": "Woobat",
+    "image": "images/A1-133.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-134",
+    "name": "Swoobat",
+    "image": "images/A1-134.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Woobat"
+  },
+  {
+    "id": "A1-135",
+    "name": "Golett",
+    "image": "images/A1-135.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-136",
+    "name": "Golurk",
+    "image": "images/A1-136.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Golett"
+  },
+  {
+    "id": "A1-137",
+    "name": "Sandshrew",
+    "image": "images/A1-137.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-138",
+    "name": "Sandslash",
+    "image": "images/A1-138.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Sandshrew"
+  },
+  {
+    "id": "A1-139",
+    "name": "Diglett",
+    "image": "images/A1-139.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-140",
+    "name": "Dugtrio",
+    "image": "images/A1-140.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Diglett"
+  },
+  {
+    "id": "A1-141",
+    "name": "Mankey",
+    "image": "images/A1-141.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-142",
+    "name": "Primeape",
+    "image": "images/A1-142.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Mankey"
+  },
+  {
+    "id": "A1-143",
+    "name": "Machop",
+    "image": "images/A1-143.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-144",
+    "name": "Machoke",
+    "image": "images/A1-144.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Machop"
+  },
+  {
+    "id": "A1-145",
+    "name": "Machamp",
+    "image": "images/A1-145.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Machoke"
+  },
+  {
+    "id": "A1-146",
+    "name": "Machamp ex",
+    "image": "images/A1-146.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Machoke"
+  },
+  {
+    "id": "A1-147",
+    "name": "Geodude",
+    "image": "images/A1-147.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-148",
+    "name": "Graveler",
+    "image": "images/A1-148.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Geodude"
+  },
+  {
+    "id": "A1-149",
+    "name": "Golem",
+    "image": "images/A1-149.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Graveler"
+  },
+  {
+    "id": "A1-150",
+    "name": "Onix",
+    "image": "images/A1-150.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-151",
+    "name": "Cubone",
+    "image": "images/A1-151.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-152",
+    "name": "Marowak",
+    "image": "images/A1-152.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Cubone"
+  },
+  {
+    "id": "A1-153",
+    "name": "Marowak ex",
+    "image": "images/A1-153.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Cubone"
+  },
+  {
+    "id": "A1-154",
+    "name": "Hitmonlee",
+    "image": "images/A1-154.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-155",
+    "name": "Hitmonchan",
+    "image": "images/A1-155.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-156",
+    "name": "Rhyhorn",
+    "image": "images/A1-156.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-157",
+    "name": "Rhydon",
+    "image": "images/A1-157.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Rhyhorn"
+  },
+  {
+    "id": "A1-158",
+    "name": "Kabuto",
+    "image": "images/A1-158.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Dome Fossil"
+  },
+  {
+    "id": "A1-159",
+    "name": "Kabutops",
+    "image": "images/A1-159.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Kabuto"
+  },
+  {
+    "id": "A1-160",
+    "name": "Mienfoo",
+    "image": "images/A1-160.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-161",
+    "name": "Mienshao",
+    "image": "images/A1-161.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Mienfoo"
+  },
+  {
+    "id": "A1-162",
+    "name": "Clobbopus",
+    "image": "images/A1-162.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-163",
+    "name": "Grapploct",
+    "image": "images/A1-163.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Clobbopus"
+  },
+  {
+    "id": "A1-164",
+    "name": "Ekans",
+    "image": "images/A1-164.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-165",
+    "name": "Arbok",
+    "image": "images/A1-165.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Ekans"
+  },
+  {
+    "id": "A1-166",
+    "name": "Nidoran♀",
+    "image": "images/A1-166.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-167",
+    "name": "Nidorina",
+    "image": "images/A1-167.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Nidoran♀"
+  },
+  {
+    "id": "A1-168",
+    "name": "Nidoqueen",
+    "image": "images/A1-168.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Darkness",
+    "evolvesfrom": "Nidorina"
+  },
+  {
+    "id": "A1-169",
+    "name": "Nidoran♂",
+    "image": "images/A1-169.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-170",
+    "name": "Nidorino",
+    "image": "images/A1-170.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Nidoran♂"
+  },
+  {
+    "id": "A1-171",
+    "name": "Nidoking",
+    "image": "images/A1-171.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Darkness",
+    "evolvesfrom": "Nidorino"
+  },
+  {
+    "id": "A1-172",
+    "name": "Zubat",
+    "image": "images/A1-172.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-173",
+    "name": "Golbat",
+    "image": "images/A1-173.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Zubat"
+  },
+  {
+    "id": "A1-174",
+    "name": "Grimer",
+    "image": "images/A1-174.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-175",
+    "name": "Muk",
+    "image": "images/A1-175.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Grimer"
+  },
+  {
+    "id": "A1-176",
+    "name": "Koffing",
+    "image": "images/A1-176.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-177",
+    "name": "Weezing",
+    "image": "images/A1-177.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Koffing"
+  },
+  {
+    "id": "A1-178",
+    "name": "Mawile",
+    "image": "images/A1-178.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-179",
+    "name": "Pawniard",
+    "image": "images/A1-179.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-180",
+    "name": "Bisharp",
+    "image": "images/A1-180.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Pawniard"
+  },
+  {
+    "id": "A1-181",
+    "name": "Meltan",
+    "image": "images/A1-181.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-182",
+    "name": "Melmetal",
+    "image": "images/A1-182.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Meltan"
+  },
+  {
+    "id": "A1-183",
+    "name": "Dratini",
+    "image": "images/A1-183.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Dragon",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-184",
+    "name": "Dragonair",
+    "image": "images/A1-184.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Dragon",
+    "evolvesfrom": "Dratini"
+  },
+  {
+    "id": "A1-185",
+    "name": "Dragonite",
+    "image": "images/A1-185.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Dragon",
+    "evolvesfrom": "Dragonair"
+  },
+  {
+    "id": "A1-186",
+    "name": "Pidgey",
+    "image": "images/A1-186.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-187",
+    "name": "Pidgeotto",
+    "image": "images/A1-187.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Pidgey"
+  },
+  {
+    "id": "A1-188",
+    "name": "Pidgeot",
+    "image": "images/A1-188.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Colorless",
+    "evolvesfrom": "Pidgeotto"
+  },
+  {
+    "id": "A1-189",
+    "name": "Rattata",
+    "image": "images/A1-189.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-190",
+    "name": "Raticate",
+    "image": "images/A1-190.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Rattata"
+  },
+  {
+    "id": "A1-191",
+    "name": "Spearow",
+    "image": "images/A1-191.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-192",
+    "name": "Fearow",
+    "image": "images/A1-192.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Spearow"
+  },
+  {
+    "id": "A1-193",
+    "name": "Jigglypuff",
+    "image": "images/A1-193.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-194",
+    "name": "Wigglytuff",
+    "image": "images/A1-194.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Jigglypuff"
+  },
+  {
+    "id": "A1-195",
+    "name": "Wigglytuff ex",
+    "image": "images/A1-195.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Jigglypuff"
+  },
+  {
+    "id": "A1-196",
+    "name": "Meowth",
+    "image": "images/A1-196.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-197",
+    "name": "Persian",
+    "image": "images/A1-197.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Meowth"
+  },
+  {
+    "id": "A1-198",
+    "name": "Farfetch'd",
+    "image": "images/A1-198.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-199",
+    "name": "Doduo",
+    "image": "images/A1-199.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-200",
+    "name": "Dodrio",
+    "image": "images/A1-200.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Doduo"
+  },
+  {
+    "id": "A1-201",
+    "name": "Lickitung",
+    "image": "images/A1-201.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-202",
+    "name": "Chansey",
+    "image": "images/A1-202.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-203",
+    "name": "Kangaskhan",
+    "image": "images/A1-203.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-204",
+    "name": "Tauros",
+    "image": "images/A1-204.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-205",
+    "name": "Ditto",
+    "image": "images/A1-205.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-206",
+    "name": "Eevee",
+    "image": "images/A1-206.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-207",
+    "name": "Eevee",
+    "image": "images/A1-207.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-208",
+    "name": "Eevee",
+    "image": "images/A1-208.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-209",
+    "name": "Porygon",
+    "image": "images/A1-209.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-210",
+    "name": "Aerodactyl",
+    "image": "images/A1-210.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Old Amber"
+  },
+  {
+    "id": "A1-211",
+    "name": "Snorlax",
+    "image": "images/A1-211.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-212",
+    "name": "Minccino",
+    "image": "images/A1-212.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-213",
+    "name": "Cinccino",
+    "image": "images/A1-213.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Minccino"
+  },
+  {
+    "id": "A1-214",
+    "name": "Wooloo",
+    "image": "images/A1-214.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-215",
+    "name": "Dubwool",
+    "image": "images/A1-215.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Wooloo"
+  },
+  {
+    "id": "A1-216",
+    "name": "Helix Fossil",
+    "image": "images/A1-216.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-217",
+    "name": "Dome Fossil",
+    "image": "images/A1-217.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-218",
+    "name": "Old Amber",
+    "image": "images/A1-218.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-219",
+    "name": "Erika",
+    "image": "images/A1-219.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-220",
+    "name": "Misty",
+    "image": "images/A1-220.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-221",
+    "name": "Blaine",
+    "image": "images/A1-221.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-222",
+    "name": "Koga",
+    "image": "images/A1-222.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-223",
+    "name": "Giovanni",
+    "image": "images/A1-223.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-224",
+    "name": "Brock",
+    "image": "images/A1-224.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-225",
+    "name": "Sabrina",
+    "image": "images/A1-225.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-226",
+    "name": "Lt. Surge",
+    "image": "images/A1-226.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-227",
+    "name": "Bulbasaur",
+    "image": "images/A1-227.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-228",
+    "name": "Gloom",
+    "image": "images/A1-228.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Oddish"
+  },
+  {
+    "id": "A1-229",
+    "name": "Pinsir",
+    "image": "images/A1-229.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-230",
+    "name": "Charmander",
+    "image": "images/A1-230.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-231",
+    "name": "Rapidash",
+    "image": "images/A1-231.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Ponyta"
+  },
+  {
+    "id": "A1-232",
+    "name": "Squirtle",
+    "image": "images/A1-232.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-233",
+    "name": "Gyarados",
+    "image": "images/A1-233.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Magikarp"
+  },
+  {
+    "id": "A1-234",
+    "name": "Lapras",
+    "image": "images/A1-234.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-235",
+    "name": "Electrode",
+    "image": "images/A1-235.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Voltorb"
+  },
+  {
+    "id": "A1-236",
+    "name": "Alakazam",
+    "image": "images/A1-236.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Kadabra"
+  },
+  {
+    "id": "A1-237",
+    "name": "Slowpoke",
+    "image": "images/A1-237.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-238",
+    "name": "Diglett",
+    "image": "images/A1-238.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-239",
+    "name": "Cubone",
+    "image": "images/A1-239.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-240",
+    "name": "Nidoqueen",
+    "image": "images/A1-240.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Darkness",
+    "evolvesfrom": "Nidorina"
+  },
+  {
+    "id": "A1-241",
+    "name": "Nidoking",
+    "image": "images/A1-241.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Darkness",
+    "evolvesfrom": "Nidorino"
+  },
+  {
+    "id": "A1-242",
+    "name": "Golbat",
+    "image": "images/A1-242.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Zubat"
+  },
+  {
+    "id": "A1-243",
+    "name": "Weezing",
+    "image": "images/A1-243.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Koffing"
+  },
+  {
+    "id": "A1-244",
+    "name": "Dragonite",
+    "image": "images/A1-244.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Dragon",
+    "evolvesfrom": "Dragonair"
+  },
+  {
+    "id": "A1-245",
+    "name": "Pidgeot",
+    "image": "images/A1-245.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Colorless",
+    "evolvesfrom": "Pidgeotto"
+  },
+  {
+    "id": "A1-246",
+    "name": "Meowth",
+    "image": "images/A1-246.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-247",
+    "name": "Ditto",
+    "image": "images/A1-247.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-248",
+    "name": "Eevee",
+    "image": "images/A1-248.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-249",
+    "name": "Porygon",
+    "image": "images/A1-249.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-250",
+    "name": "Snorlax",
+    "image": "images/A1-250.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-251",
+    "name": "Venusaur ex",
+    "image": "images/A1-251.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Ivysaur"
+  },
+  {
+    "id": "A1-252",
+    "name": "Exeggutor ex",
+    "image": "images/A1-252.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Exeggcute"
+  },
+  {
+    "id": "A1-253",
+    "name": "Charizard ex",
+    "image": "images/A1-253.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Charmeleon"
+  },
+  {
+    "id": "A1-254",
+    "name": "Arcanine ex",
+    "image": "images/A1-254.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Growlithe"
+  },
+  {
+    "id": "A1-255",
+    "name": "Moltres ex",
+    "image": "images/A1-255.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-256",
+    "name": "Blastoise ex",
+    "image": "images/A1-256.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Wartortle"
+  },
+  {
+    "id": "A1-257",
+    "name": "Starmie ex",
+    "image": "images/A1-257.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Staryu"
+  },
+  {
+    "id": "A1-258",
+    "name": "Articuno ex",
+    "image": "images/A1-258.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-259",
+    "name": "Pikachu ex",
+    "image": "images/A1-259.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-260",
+    "name": "Zapdos ex",
+    "image": "images/A1-260.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-261",
+    "name": "Gengar ex",
+    "image": "images/A1-261.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Haunter"
+  },
+  {
+    "id": "A1-262",
+    "name": "Mewtwo ex",
+    "image": "images/A1-262.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-263",
+    "name": "Machamp ex",
+    "image": "images/A1-263.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Machoke"
+  },
+  {
+    "id": "A1-264",
+    "name": "Marowak ex",
+    "image": "images/A1-264.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Cubone"
+  },
+  {
+    "id": "A1-265",
+    "name": "Wigglytuff ex",
+    "image": "images/A1-265.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Jigglypuff"
+  },
+  {
+    "id": "A1-266",
+    "name": "Erika",
+    "image": "images/A1-266.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-267",
+    "name": "Misty",
+    "image": "images/A1-267.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-268",
+    "name": "Blaine",
+    "image": "images/A1-268.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-269",
+    "name": "Koga",
+    "image": "images/A1-269.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-270",
+    "name": "Giovanni",
+    "image": "images/A1-270.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-271",
+    "name": "Brock",
+    "image": "images/A1-271.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-272",
+    "name": "Sabrina",
+    "image": "images/A1-272.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-273",
+    "name": "Lt. Surge",
+    "image": "images/A1-273.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-274",
+    "name": "Moltres ex",
+    "image": "images/A1-274.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-275",
+    "name": "Articuno ex",
+    "image": "images/A1-275.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-276",
+    "name": "Zapdos ex",
+    "image": "images/A1-276.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-277",
+    "name": "Gengar ex",
+    "image": "images/A1-277.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Haunter"
+  },
+  {
+    "id": "A1-278",
+    "name": "Machamp ex",
+    "image": "images/A1-278.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Machoke"
+  },
+  {
+    "id": "A1-279",
+    "name": "Wigglytuff ex",
+    "image": "images/A1-279.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Jigglypuff"
+  },
+  {
+    "id": "A1-280",
+    "name": "Charizard ex",
+    "image": "images/A1-280.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Charmeleon"
+  },
+  {
+    "id": "A1-281",
+    "name": "Pikachu ex",
+    "image": "images/A1-281.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-282",
+    "name": "Mewtwo ex",
+    "image": "images/A1-282.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-283",
+    "name": "Mew",
+    "image": "images/A1-283.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-284",
+    "name": "Charizard ex",
+    "image": "images/A1-284.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Charmeleon"
+  },
+  {
+    "id": "A1-285",
+    "name": "Pikachu ex",
+    "image": "images/A1-285.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1-286",
+    "name": "Mewtwo ex",
+    "image": "images/A1-286.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-001",
+    "name": "Exeggcute",
+    "image": "images/A1a-001.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-002",
+    "name": "Exeggutor",
+    "image": "images/A1a-002.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Exeggcute"
+  },
+  {
+    "id": "A1a-003",
+    "name": "Celebi ex",
+    "image": "images/A1a-003.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-004",
+    "name": "Snivy",
+    "image": "images/A1a-004.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-005",
+    "name": "Servine",
+    "image": "images/A1a-005.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Snivy"
+  },
+  {
+    "id": "A1a-006",
+    "name": "Serperior",
+    "image": "images/A1a-006.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Servine"
+  },
+  {
+    "id": "A1a-007",
+    "name": "Morelull",
+    "image": "images/A1a-007.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-008",
+    "name": "Shiinotic",
+    "image": "images/A1a-008.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Morelull"
+  },
+  {
+    "id": "A1a-009",
+    "name": "Dhelmise",
+    "image": "images/A1a-009.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-010",
+    "name": "Ponyta",
+    "image": "images/A1a-010.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-011",
+    "name": "Rapidash",
+    "image": "images/A1a-011.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Ponyta"
+  },
+  {
+    "id": "A1a-012",
+    "name": "Magmar",
+    "image": "images/A1a-012.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-013",
+    "name": "Larvesta",
+    "image": "images/A1a-013.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-014",
+    "name": "Volcarona",
+    "image": "images/A1a-014.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Larvesta"
+  },
+  {
+    "id": "A1a-015",
+    "name": "Salandit",
+    "image": "images/A1a-015.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-016",
+    "name": "Salazzle",
+    "image": "images/A1a-016.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Salandit"
+  },
+  {
+    "id": "A1a-017",
+    "name": "Magikarp",
+    "image": "images/A1a-017.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-018",
+    "name": "Gyarados ex",
+    "image": "images/A1a-018.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Magikarp"
+  },
+  {
+    "id": "A1a-019",
+    "name": "Vaporeon",
+    "image": "images/A1a-019.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A1a-020",
+    "name": "Finneon",
+    "image": "images/A1a-020.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-021",
+    "name": "Lumineon",
+    "image": "images/A1a-021.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Finneon"
+  },
+  {
+    "id": "A1a-022",
+    "name": "Chewtle",
+    "image": "images/A1a-022.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-023",
+    "name": "Drednaw",
+    "image": "images/A1a-023.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Chewtle"
+  },
+  {
+    "id": "A1a-024",
+    "name": "Cramorant",
+    "image": "images/A1a-024.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-025",
+    "name": "Pikachu",
+    "image": "images/A1a-025.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-026",
+    "name": "Raichu",
+    "image": "images/A1a-026.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Pikachu"
+  },
+  {
+    "id": "A1a-027",
+    "name": "Electabuzz",
+    "image": "images/A1a-027.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-028",
+    "name": "Joltik",
+    "image": "images/A1a-028.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-029",
+    "name": "Galvantula",
+    "image": "images/A1a-029.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Joltik"
+  },
+  {
+    "id": "A1a-030",
+    "name": "Dedenne",
+    "image": "images/A1a-030.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-031",
+    "name": "Mew",
+    "image": "images/A1a-031.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-032",
+    "name": "Mew ex",
+    "image": "images/A1a-032.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-033",
+    "name": "Sigilyph",
+    "image": "images/A1a-033.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-034",
+    "name": "Elgyem",
+    "image": "images/A1a-034.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-035",
+    "name": "Beheeyem",
+    "image": "images/A1a-035.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Elgyem"
+  },
+  {
+    "id": "A1a-036",
+    "name": "Flabébé",
+    "image": "images/A1a-036.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-037",
+    "name": "Floette",
+    "image": "images/A1a-037.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Flabébé"
+  },
+  {
+    "id": "A1a-038",
+    "name": "Florges",
+    "image": "images/A1a-038.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Floette"
+  },
+  {
+    "id": "A1a-039",
+    "name": "Swirlix",
+    "image": "images/A1a-039.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-040",
+    "name": "Slurpuff",
+    "image": "images/A1a-040.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Swirlix"
+  },
+  {
+    "id": "A1a-041",
+    "name": "Mankey",
+    "image": "images/A1a-041.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-042",
+    "name": "Primeape",
+    "image": "images/A1a-042.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Mankey"
+  },
+  {
+    "id": "A1a-043",
+    "name": "Geodude",
+    "image": "images/A1a-043.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-044",
+    "name": "Graveler",
+    "image": "images/A1a-044.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Geodude"
+  },
+  {
+    "id": "A1a-045",
+    "name": "Golem",
+    "image": "images/A1a-045.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Graveler"
+  },
+  {
+    "id": "A1a-046",
+    "name": "Aerodactyl ex",
+    "image": "images/A1a-046.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-047",
+    "name": "Marshadow",
+    "image": "images/A1a-047.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-048",
+    "name": "Stonjourner",
+    "image": "images/A1a-048.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-049",
+    "name": "Koffing",
+    "image": "images/A1a-049.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-050",
+    "name": "Weezing",
+    "image": "images/A1a-050.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Koffing"
+  },
+  {
+    "id": "A1a-051",
+    "name": "Purrloin",
+    "image": "images/A1a-051.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-052",
+    "name": "Liepard",
+    "image": "images/A1a-052.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Purrloin"
+  },
+  {
+    "id": "A1a-053",
+    "name": "Venipede",
+    "image": "images/A1a-053.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-054",
+    "name": "Whirlipede",
+    "image": "images/A1a-054.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Venipede"
+  },
+  {
+    "id": "A1a-055",
+    "name": "Scolipede",
+    "image": "images/A1a-055.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Darkness",
+    "evolvesfrom": "Whirlipede"
+  },
+  {
+    "id": "A1a-056",
+    "name": "Druddigon",
+    "image": "images/A1a-056.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Dragon",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-057",
+    "name": "Pidgey",
+    "image": "images/A1a-057.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-058",
+    "name": "Pidgeotto",
+    "image": "images/A1a-058.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Pidgey"
+  },
+  {
+    "id": "A1a-059",
+    "name": "Pidgeot ex",
+    "image": "images/A1a-059.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Colorless",
+    "evolvesfrom": "Pidgeotto"
+  },
+  {
+    "id": "A1a-060",
+    "name": "Tauros",
+    "image": "images/A1a-060.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-061",
+    "name": "Eevee",
+    "image": "images/A1a-061.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-062",
+    "name": "Chatot",
+    "image": "images/A1a-062.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-063",
+    "name": "Old Amber",
+    "image": "images/A1a-063.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-064",
+    "name": "Pokémon Flute",
+    "image": "images/A1a-064.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-065",
+    "name": "Mythical Slab",
+    "image": "images/A1a-065.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-066",
+    "name": "Budding Expeditioner",
+    "image": "images/A1a-066.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-067",
+    "name": "Blue",
+    "image": "images/A1a-067.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-068",
+    "name": "Leaf",
+    "image": "images/A1a-068.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-069",
+    "name": "Exeggutor",
+    "image": "images/A1a-069.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Exeggcute"
+  },
+  {
+    "id": "A1a-070",
+    "name": "Serperior",
+    "image": "images/A1a-070.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Servine"
+  },
+  {
+    "id": "A1a-071",
+    "name": "Salandit",
+    "image": "images/A1a-071.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-072",
+    "name": "Vaporeon",
+    "image": "images/A1a-072.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A1a-073",
+    "name": "Dedenne",
+    "image": "images/A1a-073.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-074",
+    "name": "Marshadow",
+    "image": "images/A1a-074.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-075",
+    "name": "Celebi ex",
+    "image": "images/A1a-075.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-076",
+    "name": "Gyarados ex",
+    "image": "images/A1a-076.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Magikarp"
+  },
+  {
+    "id": "A1a-077",
+    "name": "Mew ex",
+    "image": "images/A1a-077.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-078",
+    "name": "Aerodactyl ex",
+    "image": "images/A1a-078.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-079",
+    "name": "Pidgeot ex",
+    "image": "images/A1a-079.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Colorless",
+    "evolvesfrom": "Pidgeotto"
+  },
+  {
+    "id": "A1a-080",
+    "name": "Budding Expeditioner",
+    "image": "images/A1a-080.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-081",
+    "name": "Blue",
+    "image": "images/A1a-081.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-082",
+    "name": "Leaf",
+    "image": "images/A1a-082.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-083",
+    "name": "Mew ex",
+    "image": "images/A1a-083.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-084",
+    "name": "Aerodactyl ex",
+    "image": "images/A1a-084.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-085",
+    "name": "Celebi ex",
+    "image": "images/A1a-085.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A1a-086",
+    "name": "Mew ex",
+    "image": "images/A1a-086.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-001",
+    "name": "Oddish",
+    "image": "images/A2-001.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-002",
+    "name": "Gloom",
+    "image": "images/A2-002.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Oddish"
+  },
+  {
+    "id": "A2-003",
+    "name": "Bellossom",
+    "image": "images/A2-003.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Gloom"
+  },
+  {
+    "id": "A2-004",
+    "name": "Tangela",
+    "image": "images/A2-004.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-005",
+    "name": "Tangrowth",
+    "image": "images/A2-005.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Tangela"
+  },
+  {
+    "id": "A2-006",
+    "name": "Yanma",
+    "image": "images/A2-006.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-007",
+    "name": "Yanmega ex",
+    "image": "images/A2-007.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Yanma"
+  },
+  {
+    "id": "A2-008",
+    "name": "Roselia",
+    "image": "images/A2-008.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-009",
+    "name": "Roserade",
+    "image": "images/A2-009.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Roselia"
+  },
+  {
+    "id": "A2-010",
+    "name": "Turtwig",
+    "image": "images/A2-010.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-011",
+    "name": "Grotle",
+    "image": "images/A2-011.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Turtwig"
+  },
+  {
+    "id": "A2-012",
+    "name": "Torterra",
+    "image": "images/A2-012.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Grotle"
+  },
+  {
+    "id": "A2-013",
+    "name": "Kricketot",
+    "image": "images/A2-013.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-014",
+    "name": "Kricketune",
+    "image": "images/A2-014.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Kricketot"
+  },
+  {
+    "id": "A2-015",
+    "name": "Burmy",
+    "image": "images/A2-015.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-016",
+    "name": "Wormadam",
+    "image": "images/A2-016.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Burmy"
+  },
+  {
+    "id": "A2-017",
+    "name": "Combee",
+    "image": "images/A2-017.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-018",
+    "name": "Vespiquen",
+    "image": "images/A2-018.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Combee"
+  },
+  {
+    "id": "A2-019",
+    "name": "Carnivine",
+    "image": "images/A2-019.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-020",
+    "name": "Leafeon",
+    "image": "images/A2-020.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A2-021",
+    "name": "Mow Rotom",
+    "image": "images/A2-021.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-022",
+    "name": "Shaymin",
+    "image": "images/A2-022.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-023",
+    "name": "Magmar",
+    "image": "images/A2-023.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-024",
+    "name": "Magmortar",
+    "image": "images/A2-024.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Magmar"
+  },
+  {
+    "id": "A2-025",
+    "name": "Slugma",
+    "image": "images/A2-025.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-026",
+    "name": "Magcargo",
+    "image": "images/A2-026.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Slugma"
+  },
+  {
+    "id": "A2-027",
+    "name": "Chimchar",
+    "image": "images/A2-027.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-028",
+    "name": "Monferno",
+    "image": "images/A2-028.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Chimchar"
+  },
+  {
+    "id": "A2-029",
+    "name": "Infernape ex",
+    "image": "images/A2-029.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Monferno"
+  },
+  {
+    "id": "A2-030",
+    "name": "Heat Rotom",
+    "image": "images/A2-030.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-031",
+    "name": "Swinub",
+    "image": "images/A2-031.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-032",
+    "name": "Piloswine",
+    "image": "images/A2-032.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Swinub"
+  },
+  {
+    "id": "A2-033",
+    "name": "Mamoswine",
+    "image": "images/A2-033.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Piloswine"
+  },
+  {
+    "id": "A2-034",
+    "name": "Regice",
+    "image": "images/A2-034.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-035",
+    "name": "Piplup",
+    "image": "images/A2-035.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-036",
+    "name": "Prinplup",
+    "image": "images/A2-036.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Piplup"
+  },
+  {
+    "id": "A2-037",
+    "name": "Empoleon",
+    "image": "images/A2-037.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Prinplup"
+  },
+  {
+    "id": "A2-038",
+    "name": "Buizel",
+    "image": "images/A2-038.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-039",
+    "name": "Floatzel",
+    "image": "images/A2-039.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Buizel"
+  },
+  {
+    "id": "A2-040",
+    "name": "Shellos",
+    "image": "images/A2-040.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-041",
+    "name": "Gastrodon",
+    "image": "images/A2-041.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Shellos"
+  },
+  {
+    "id": "A2-042",
+    "name": "Finneon",
+    "image": "images/A2-042.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-043",
+    "name": "Lumineon",
+    "image": "images/A2-043.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Finneon"
+  },
+  {
+    "id": "A2-044",
+    "name": "Snover",
+    "image": "images/A2-044.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-045",
+    "name": "Abomasnow",
+    "image": "images/A2-045.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Snover"
+  },
+  {
+    "id": "A2-046",
+    "name": "Glaceon",
+    "image": "images/A2-046.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A2-047",
+    "name": "Wash Rotom",
+    "image": "images/A2-047.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-048",
+    "name": "Frost Rotom",
+    "image": "images/A2-048.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-049",
+    "name": "Palkia ex",
+    "image": "images/A2-049.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-050",
+    "name": "Manaphy",
+    "image": "images/A2-050.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-051",
+    "name": "Magnemite",
+    "image": "images/A2-051.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-052",
+    "name": "Magneton",
+    "image": "images/A2-052.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Magnemite"
+  },
+  {
+    "id": "A2-053",
+    "name": "Magnezone",
+    "image": "images/A2-053.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Lightning",
+    "evolvesfrom": "Magneton"
+  },
+  {
+    "id": "A2-054",
+    "name": "Voltorb",
+    "image": "images/A2-054.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-055",
+    "name": "Electrode",
+    "image": "images/A2-055.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Voltorb"
+  },
+  {
+    "id": "A2-056",
+    "name": "Electabuzz",
+    "image": "images/A2-056.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-057",
+    "name": "Electivire",
+    "image": "images/A2-057.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Electabuzz"
+  },
+  {
+    "id": "A2-058",
+    "name": "Shinx",
+    "image": "images/A2-058.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-059",
+    "name": "Luxio",
+    "image": "images/A2-059.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Shinx"
+  },
+  {
+    "id": "A2-060",
+    "name": "Luxray",
+    "image": "images/A2-060.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Lightning",
+    "evolvesfrom": "Luxio"
+  },
+  {
+    "id": "A2-061",
+    "name": "Pachirisu ex",
+    "image": "images/A2-061.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-062",
+    "name": "Rotom",
+    "image": "images/A2-062.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-063",
+    "name": "Togepi",
+    "image": "images/A2-063.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-064",
+    "name": "Togetic",
+    "image": "images/A2-064.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Togepi"
+  },
+  {
+    "id": "A2-065",
+    "name": "Togekiss",
+    "image": "images/A2-065.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Togetic"
+  },
+  {
+    "id": "A2-066",
+    "name": "Misdreavus",
+    "image": "images/A2-066.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-067",
+    "name": "Mismagius ex",
+    "image": "images/A2-067.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Misdreavus"
+  },
+  {
+    "id": "A2-068",
+    "name": "Ralts",
+    "image": "images/A2-068.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-069",
+    "name": "Kirlia",
+    "image": "images/A2-069.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Ralts"
+  },
+  {
+    "id": "A2-070",
+    "name": "Duskull",
+    "image": "images/A2-070.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-071",
+    "name": "Dusclops",
+    "image": "images/A2-071.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Duskull"
+  },
+  {
+    "id": "A2-072",
+    "name": "Dusknoir",
+    "image": "images/A2-072.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Dusclops"
+  },
+  {
+    "id": "A2-073",
+    "name": "Drifloon",
+    "image": "images/A2-073.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-074",
+    "name": "Drifblim",
+    "image": "images/A2-074.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Drifloon"
+  },
+  {
+    "id": "A2-075",
+    "name": "Uxie",
+    "image": "images/A2-075.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-076",
+    "name": "Mesprit",
+    "image": "images/A2-076.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-077",
+    "name": "Azelf",
+    "image": "images/A2-077.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-078",
+    "name": "Giratina",
+    "image": "images/A2-078.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-079",
+    "name": "Cresselia",
+    "image": "images/A2-079.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-080",
+    "name": "Rhyhorn",
+    "image": "images/A2-080.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-081",
+    "name": "Rhydon",
+    "image": "images/A2-081.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Rhyhorn"
+  },
+  {
+    "id": "A2-082",
+    "name": "Rhyperior",
+    "image": "images/A2-082.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Rhydon"
+  },
+  {
+    "id": "A2-083",
+    "name": "Gligar",
+    "image": "images/A2-083.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-084",
+    "name": "Gliscor",
+    "image": "images/A2-084.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Gligar"
+  },
+  {
+    "id": "A2-085",
+    "name": "Hitmontop",
+    "image": "images/A2-085.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-086",
+    "name": "Nosepass",
+    "image": "images/A2-086.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-087",
+    "name": "Regirock",
+    "image": "images/A2-087.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-088",
+    "name": "Cranidos",
+    "image": "images/A2-088.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Skull Fossil"
+  },
+  {
+    "id": "A2-089",
+    "name": "Rampardos",
+    "image": "images/A2-089.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Cranidos"
+  },
+  {
+    "id": "A2-090",
+    "name": "Wormadam",
+    "image": "images/A2-090.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Burmy"
+  },
+  {
+    "id": "A2-091",
+    "name": "Riolu",
+    "image": "images/A2-091.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-092",
+    "name": "Lucario",
+    "image": "images/A2-092.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Riolu"
+  },
+  {
+    "id": "A2-093",
+    "name": "Hippopotas",
+    "image": "images/A2-093.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-094",
+    "name": "Hippowdon",
+    "image": "images/A2-094.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Hippopotas"
+  },
+  {
+    "id": "A2-095",
+    "name": "Gallade ex",
+    "image": "images/A2-095.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Kirlia"
+  },
+  {
+    "id": "A2-096",
+    "name": "Murkrow",
+    "image": "images/A2-096.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-097",
+    "name": "Honchkrow",
+    "image": "images/A2-097.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Murkrow"
+  },
+  {
+    "id": "A2-098",
+    "name": "Sneasel",
+    "image": "images/A2-098.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-099",
+    "name": "Weavile ex",
+    "image": "images/A2-099.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Sneasel"
+  },
+  {
+    "id": "A2-100",
+    "name": "Poochyena",
+    "image": "images/A2-100.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-101",
+    "name": "Mightyena",
+    "image": "images/A2-101.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Poochyena"
+  },
+  {
+    "id": "A2-102",
+    "name": "Stunky",
+    "image": "images/A2-102.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-103",
+    "name": "Skuntank",
+    "image": "images/A2-103.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Stunky"
+  },
+  {
+    "id": "A2-104",
+    "name": "Spiritomb",
+    "image": "images/A2-104.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-105",
+    "name": "Skorupi",
+    "image": "images/A2-105.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-106",
+    "name": "Drapion",
+    "image": "images/A2-106.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Skorupi"
+  },
+  {
+    "id": "A2-107",
+    "name": "Croagunk",
+    "image": "images/A2-107.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-108",
+    "name": "Toxicroak",
+    "image": "images/A2-108.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Croagunk"
+  },
+  {
+    "id": "A2-109",
+    "name": "Darkrai",
+    "image": "images/A2-109.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-110",
+    "name": "Darkrai ex",
+    "image": "images/A2-110.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-111",
+    "name": "Skarmory",
+    "image": "images/A2-111.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-112",
+    "name": "Registeel",
+    "image": "images/A2-112.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-113",
+    "name": "Shieldon",
+    "image": "images/A2-113.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Armor Fossil"
+  },
+  {
+    "id": "A2-114",
+    "name": "Bastiodon",
+    "image": "images/A2-114.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Metal",
+    "evolvesfrom": "Shieldon"
+  },
+  {
+    "id": "A2-115",
+    "name": "Wormadam",
+    "image": "images/A2-115.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Burmy"
+  },
+  {
+    "id": "A2-116",
+    "name": "Bronzor",
+    "image": "images/A2-116.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-117",
+    "name": "Bronzong",
+    "image": "images/A2-117.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Bronzor"
+  },
+  {
+    "id": "A2-118",
+    "name": "Probopass",
+    "image": "images/A2-118.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Nosepass"
+  },
+  {
+    "id": "A2-119",
+    "name": "Dialga ex",
+    "image": "images/A2-119.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-120",
+    "name": "Heatran",
+    "image": "images/A2-120.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-121",
+    "name": "Gible",
+    "image": "images/A2-121.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Dragon",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-122",
+    "name": "Gabite",
+    "image": "images/A2-122.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Dragon",
+    "evolvesfrom": "Gible"
+  },
+  {
+    "id": "A2-123",
+    "name": "Garchomp",
+    "image": "images/A2-123.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Dragon",
+    "evolvesfrom": "Gabite"
+  },
+  {
+    "id": "A2-124",
+    "name": "Lickitung",
+    "image": "images/A2-124.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-125",
+    "name": "Lickilicky ex",
+    "image": "images/A2-125.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Lickitung"
+  },
+  {
+    "id": "A2-126",
+    "name": "Eevee",
+    "image": "images/A2-126.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-127",
+    "name": "Porygon",
+    "image": "images/A2-127.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-128",
+    "name": "Porygon2",
+    "image": "images/A2-128.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Porygon"
+  },
+  {
+    "id": "A2-129",
+    "name": "Porygon-Z",
+    "image": "images/A2-129.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Colorless",
+    "evolvesfrom": "Porygon2"
+  },
+  {
+    "id": "A2-130",
+    "name": "Aipom",
+    "image": "images/A2-130.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-131",
+    "name": "Ambipom",
+    "image": "images/A2-131.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Aipom"
+  },
+  {
+    "id": "A2-132",
+    "name": "Starly",
+    "image": "images/A2-132.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-133",
+    "name": "Staravia",
+    "image": "images/A2-133.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Starly"
+  },
+  {
+    "id": "A2-134",
+    "name": "Staraptor",
+    "image": "images/A2-134.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Colorless",
+    "evolvesfrom": "Staravia"
+  },
+  {
+    "id": "A2-135",
+    "name": "Bidoof",
+    "image": "images/A2-135.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-136",
+    "name": "Bibarel",
+    "image": "images/A2-136.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Bidoof"
+  },
+  {
+    "id": "A2-137",
+    "name": "Buneary",
+    "image": "images/A2-137.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-138",
+    "name": "Lopunny",
+    "image": "images/A2-138.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Buneary"
+  },
+  {
+    "id": "A2-139",
+    "name": "Glameow",
+    "image": "images/A2-139.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-140",
+    "name": "Purugly",
+    "image": "images/A2-140.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Glameow"
+  },
+  {
+    "id": "A2-141",
+    "name": "Chatot",
+    "image": "images/A2-141.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-142",
+    "name": "Fan Rotom",
+    "image": "images/A2-142.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-143",
+    "name": "Regigigas",
+    "image": "images/A2-143.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-144",
+    "name": "Skull Fossil",
+    "image": "images/A2-144.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-145",
+    "name": "Armor Fossil",
+    "image": "images/A2-145.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-146",
+    "name": "Pokémon Communication",
+    "image": "images/A2-146.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-147",
+    "name": "Giant Cape",
+    "image": "images/A2-147.PNG",
+    "type": "Trainer",
+    "category": "Tool",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-148",
+    "name": "Rocky Helmet",
+    "image": "images/A2-148.PNG",
+    "type": "Trainer",
+    "category": "Tool",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-149",
+    "name": "Lum Berry",
+    "image": "images/A2-149.PNG",
+    "type": "Trainer",
+    "category": "Tool",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-150",
+    "name": "Cyrus",
+    "image": "images/A2-150.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-151",
+    "name": "Team Galactic Grunt",
+    "image": "images/A2-151.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-152",
+    "name": "Cynthia",
+    "image": "images/A2-152.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-153",
+    "name": "Volkner",
+    "image": "images/A2-153.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-154",
+    "name": "Dawn",
+    "image": "images/A2-154.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-155",
+    "name": "Mars",
+    "image": "images/A2-155.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-156",
+    "name": "Tangrowth",
+    "image": "images/A2-156.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Tangela"
+  },
+  {
+    "id": "A2-157",
+    "name": "Combee",
+    "image": "images/A2-157.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-158",
+    "name": "Carnivine",
+    "image": "images/A2-158.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-159",
+    "name": "Shaymin",
+    "image": "images/A2-159.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-160",
+    "name": "Mamoswine",
+    "image": "images/A2-160.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Piloswine"
+  },
+  {
+    "id": "A2-161",
+    "name": "Gastrodon",
+    "image": "images/A2-161.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Shellos"
+  },
+  {
+    "id": "A2-162",
+    "name": "Manaphy",
+    "image": "images/A2-162.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-163",
+    "name": "Shinx",
+    "image": "images/A2-163.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-164",
+    "name": "Rotom",
+    "image": "images/A2-164.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-165",
+    "name": "Drifloon",
+    "image": "images/A2-165.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-166",
+    "name": "Mesprit",
+    "image": "images/A2-166.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-167",
+    "name": "Giratina",
+    "image": "images/A2-167.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-168",
+    "name": "Cresselia",
+    "image": "images/A2-168.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-169",
+    "name": "Rhyperior",
+    "image": "images/A2-169.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Rhydon"
+  },
+  {
+    "id": "A2-170",
+    "name": "Lucario",
+    "image": "images/A2-170.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Riolu"
+  },
+  {
+    "id": "A2-171",
+    "name": "Hippopotas",
+    "image": "images/A2-171.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-172",
+    "name": "Spiritomb",
+    "image": "images/A2-172.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-173",
+    "name": "Croagunk",
+    "image": "images/A2-173.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-174",
+    "name": "Heatran",
+    "image": "images/A2-174.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-175",
+    "name": "Garchomp",
+    "image": "images/A2-175.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Dragon",
+    "evolvesfrom": "Gabite"
+  },
+  {
+    "id": "A2-176",
+    "name": "Staraptor",
+    "image": "images/A2-176.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Colorless",
+    "evolvesfrom": "Staravia"
+  },
+  {
+    "id": "A2-177",
+    "name": "Bidoof",
+    "image": "images/A2-177.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-178",
+    "name": "Glameow",
+    "image": "images/A2-178.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-179",
+    "name": "Regigigas",
+    "image": "images/A2-179.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-180",
+    "name": "Yanmega ex",
+    "image": "images/A2-180.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Yanma"
+  },
+  {
+    "id": "A2-181",
+    "name": "Infernape ex",
+    "image": "images/A2-181.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Monferno"
+  },
+  {
+    "id": "A2-182",
+    "name": "Palkia ex",
+    "image": "images/A2-182.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-183",
+    "name": "Pachirisu ex",
+    "image": "images/A2-183.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-184",
+    "name": "Mismagius ex",
+    "image": "images/A2-184.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Misdreavus"
+  },
+  {
+    "id": "A2-185",
+    "name": "Gallade ex",
+    "image": "images/A2-185.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Kirlia"
+  },
+  {
+    "id": "A2-186",
+    "name": "Weavile ex",
+    "image": "images/A2-186.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Sneasel"
+  },
+  {
+    "id": "A2-187",
+    "name": "Darkrai ex",
+    "image": "images/A2-187.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-188",
+    "name": "Dialga ex",
+    "image": "images/A2-188.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-189",
+    "name": "Lickilicky ex",
+    "image": "images/A2-189.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Lickitung"
+  },
+  {
+    "id": "A2-190",
+    "name": "Cyrus",
+    "image": "images/A2-190.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-191",
+    "name": "Team Galactic Grunt",
+    "image": "images/A2-191.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-192",
+    "name": "Cynthia",
+    "image": "images/A2-192.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-193",
+    "name": "Volkner",
+    "image": "images/A2-193.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-194",
+    "name": "Dawn",
+    "image": "images/A2-194.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-195",
+    "name": "Mars",
+    "image": "images/A2-195.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-196",
+    "name": "Yanmega ex",
+    "image": "images/A2-196.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Yanma"
+  },
+  {
+    "id": "A2-197",
+    "name": "Infernape ex",
+    "image": "images/A2-197.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Monferno"
+  },
+  {
+    "id": "A2-198",
+    "name": "Pachirisu ex",
+    "image": "images/A2-198.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-199",
+    "name": "Mismagius ex",
+    "image": "images/A2-199.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Misdreavus"
+  },
+  {
+    "id": "A2-200",
+    "name": "Gallade ex",
+    "image": "images/A2-200.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Kirlia"
+  },
+  {
+    "id": "A2-201",
+    "name": "Weavile ex",
+    "image": "images/A2-201.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Sneasel"
+  },
+  {
+    "id": "A2-202",
+    "name": "Darkrai ex",
+    "image": "images/A2-202.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-203",
+    "name": "Lickilicky ex",
+    "image": "images/A2-203.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Lickitung"
+  },
+  {
+    "id": "A2-204",
+    "name": "Palkia ex",
+    "image": "images/A2-204.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-205",
+    "name": "Dialga ex",
+    "image": "images/A2-205.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-206",
+    "name": "Palkia ex",
+    "image": "images/A2-206.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2-207",
+    "name": "Dialga ex",
+    "image": "images/A2-207.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-001",
+    "name": "Heracross",
+    "image": "images/A2a-001.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-002",
+    "name": "Burmy",
+    "image": "images/A2a-002.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-003",
+    "name": "Mothim",
+    "image": "images/A2a-003.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Burmy"
+  },
+  {
+    "id": "A2a-004",
+    "name": "Combee",
+    "image": "images/A2a-004.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-005",
+    "name": "Vespiquen",
+    "image": "images/A2a-005.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Combee"
+  },
+  {
+    "id": "A2a-006",
+    "name": "Cherubi",
+    "image": "images/A2a-006.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-007",
+    "name": "Cherrim",
+    "image": "images/A2a-007.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Cherubi"
+  },
+  {
+    "id": "A2a-008",
+    "name": "Cherrim",
+    "image": "images/A2a-008.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Cherubi"
+  },
+  {
+    "id": "A2a-009",
+    "name": "Carnivine",
+    "image": "images/A2a-009.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-010",
+    "name": "Leafeon ex",
+    "image": "images/A2a-010.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A2a-011",
+    "name": "Houndour",
+    "image": "images/A2a-011.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-012",
+    "name": "Houndoom",
+    "image": "images/A2a-012.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Houndour"
+  },
+  {
+    "id": "A2a-013",
+    "name": "Heatran",
+    "image": "images/A2a-013.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-014",
+    "name": "Marill",
+    "image": "images/A2a-014.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-015",
+    "name": "Azumarill",
+    "image": "images/A2a-015.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Marill"
+  },
+  {
+    "id": "A2a-016",
+    "name": "Barboach",
+    "image": "images/A2a-016.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-017",
+    "name": "Whiscash",
+    "image": "images/A2a-017.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Barboach"
+  },
+  {
+    "id": "A2a-018",
+    "name": "Snorunt",
+    "image": "images/A2a-018.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-019",
+    "name": "Froslass",
+    "image": "images/A2a-019.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Snorunt"
+  },
+  {
+    "id": "A2a-020",
+    "name": "Snover",
+    "image": "images/A2a-020.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-021",
+    "name": "Abomasnow",
+    "image": "images/A2a-021.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Snover"
+  },
+  {
+    "id": "A2a-022",
+    "name": "Glaceon ex",
+    "image": "images/A2a-022.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A2a-023",
+    "name": "Palkia",
+    "image": "images/A2a-023.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-024",
+    "name": "Phione",
+    "image": "images/A2a-024.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-025",
+    "name": "Pikachu",
+    "image": "images/A2a-025.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-026",
+    "name": "Raichu",
+    "image": "images/A2a-026.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Pikachu"
+  },
+  {
+    "id": "A2a-027",
+    "name": "Electrike",
+    "image": "images/A2a-027.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-028",
+    "name": "Manectric",
+    "image": "images/A2a-028.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Electrike"
+  },
+  {
+    "id": "A2a-029",
+    "name": "Clefairy",
+    "image": "images/A2a-029.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-030",
+    "name": "Clefable",
+    "image": "images/A2a-030.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Clefairy"
+  },
+  {
+    "id": "A2a-031",
+    "name": "Gastly",
+    "image": "images/A2a-031.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-032",
+    "name": "Haunter",
+    "image": "images/A2a-032.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Gastly"
+  },
+  {
+    "id": "A2a-033",
+    "name": "Gengar",
+    "image": "images/A2a-033.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Haunter"
+  },
+  {
+    "id": "A2a-034",
+    "name": "Unown",
+    "image": "images/A2a-034.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-035",
+    "name": "Rotom",
+    "image": "images/A2a-035.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-036",
+    "name": "Sudowoodo",
+    "image": "images/A2a-036.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-037",
+    "name": "Phanpy",
+    "image": "images/A2a-037.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-038",
+    "name": "Donphan",
+    "image": "images/A2a-038.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Phanpy"
+  },
+  {
+    "id": "A2a-039",
+    "name": "Larvitar",
+    "image": "images/A2a-039.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-040",
+    "name": "Pupitar",
+    "image": "images/A2a-040.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Larvitar"
+  },
+  {
+    "id": "A2a-041",
+    "name": "Tyranitar",
+    "image": "images/A2a-041.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Pupitar"
+  },
+  {
+    "id": "A2a-042",
+    "name": "Nosepass",
+    "image": "images/A2a-042.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-043",
+    "name": "Meditite",
+    "image": "images/A2a-043.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-044",
+    "name": "Medicham",
+    "image": "images/A2a-044.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Meditite"
+  },
+  {
+    "id": "A2a-045",
+    "name": "Gible",
+    "image": "images/A2a-045.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-046",
+    "name": "Gabite",
+    "image": "images/A2a-046.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Gible"
+  },
+  {
+    "id": "A2a-047",
+    "name": "Garchomp ex",
+    "image": "images/A2a-047.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Gabite"
+  },
+  {
+    "id": "A2a-048",
+    "name": "Zubat",
+    "image": "images/A2a-048.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-049",
+    "name": "Golbat",
+    "image": "images/A2a-049.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Zubat"
+  },
+  {
+    "id": "A2a-050",
+    "name": "Crobat",
+    "image": "images/A2a-050.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Darkness",
+    "evolvesfrom": "Golbat"
+  },
+  {
+    "id": "A2a-051",
+    "name": "Croagunk",
+    "image": "images/A2a-051.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-052",
+    "name": "Toxicroak",
+    "image": "images/A2a-052.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Croagunk"
+  },
+  {
+    "id": "A2a-053",
+    "name": "Magnemite",
+    "image": "images/A2a-053.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-054",
+    "name": "Magneton",
+    "image": "images/A2a-054.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Magnemite"
+  },
+  {
+    "id": "A2a-055",
+    "name": "Magnezone",
+    "image": "images/A2a-055.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Metal",
+    "evolvesfrom": "Magneton"
+  },
+  {
+    "id": "A2a-056",
+    "name": "Mawile",
+    "image": "images/A2a-056.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-057",
+    "name": "Probopass ex",
+    "image": "images/A2a-057.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Nosepass"
+  },
+  {
+    "id": "A2a-058",
+    "name": "Bronzor",
+    "image": "images/A2a-058.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-059",
+    "name": "Bronzong",
+    "image": "images/A2a-059.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Bronzor"
+  },
+  {
+    "id": "A2a-060",
+    "name": "Dialga",
+    "image": "images/A2a-060.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-061",
+    "name": "Giratina",
+    "image": "images/A2a-061.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Dragon",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-062",
+    "name": "Eevee",
+    "image": "images/A2a-062.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-063",
+    "name": "Snorlax",
+    "image": "images/A2a-063.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-064",
+    "name": "Hoothoot",
+    "image": "images/A2a-064.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-065",
+    "name": "Noctowl",
+    "image": "images/A2a-065.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Hoothoot"
+  },
+  {
+    "id": "A2a-066",
+    "name": "Starly",
+    "image": "images/A2a-066.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-067",
+    "name": "Staravia",
+    "image": "images/A2a-067.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Starly"
+  },
+  {
+    "id": "A2a-068",
+    "name": "Staraptor",
+    "image": "images/A2a-068.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Colorless",
+    "evolvesfrom": "Staravia"
+  },
+  {
+    "id": "A2a-069",
+    "name": "Shaymin",
+    "image": "images/A2a-069.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-070",
+    "name": "Arceus",
+    "image": "images/A2a-070.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-071",
+    "name": "Arceus ex",
+    "image": "images/A2a-071.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-072",
+    "name": "Irida",
+    "image": "images/A2a-072.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-073",
+    "name": "Celestic Town Elder",
+    "image": "images/A2a-073.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-074",
+    "name": "Barry",
+    "image": "images/A2a-074.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-075",
+    "name": "Adaman",
+    "image": "images/A2a-075.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-076",
+    "name": "Houndoom",
+    "image": "images/A2a-076.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Houndour"
+  },
+  {
+    "id": "A2a-077",
+    "name": "Marill",
+    "image": "images/A2a-077.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-078",
+    "name": "Unown",
+    "image": "images/A2a-078.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-079",
+    "name": "Sudowoodo",
+    "image": "images/A2a-079.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-080",
+    "name": "Magnemite",
+    "image": "images/A2a-080.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-081",
+    "name": "Shaymin",
+    "image": "images/A2a-081.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-082",
+    "name": "Leafeon ex",
+    "image": "images/A2a-082.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A2a-083",
+    "name": "Glaceon ex",
+    "image": "images/A2a-083.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A2a-084",
+    "name": "Garchomp ex",
+    "image": "images/A2a-084.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Gabite"
+  },
+  {
+    "id": "A2a-085",
+    "name": "Probopass ex",
+    "image": "images/A2a-085.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Nosepass"
+  },
+  {
+    "id": "A2a-086",
+    "name": "Arceus ex",
+    "image": "images/A2a-086.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-087",
+    "name": "Irida",
+    "image": "images/A2a-087.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-088",
+    "name": "Celestic Town Elder",
+    "image": "images/A2a-088.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-089",
+    "name": "Barry",
+    "image": "images/A2a-089.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-090",
+    "name": "Adaman",
+    "image": "images/A2a-090.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-091",
+    "name": "Leafeon ex",
+    "image": "images/A2a-091.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A2a-092",
+    "name": "Glaceon ex",
+    "image": "images/A2a-092.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Eevee"
+  },
+  {
+    "id": "A2a-093",
+    "name": "Garchomp ex",
+    "image": "images/A2a-093.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Gabite"
+  },
+  {
+    "id": "A2a-094",
+    "name": "Probopass ex",
+    "image": "images/A2a-094.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Nosepass"
+  },
+  {
+    "id": "A2a-095",
+    "name": "Arceus ex",
+    "image": "images/A2a-095.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2a-096",
+    "name": "Arceus ex",
+    "image": "images/A2a-096.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-001",
+    "name": "Weedle",
+    "image": "images/A2b-001.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-002",
+    "name": "Kakuna",
+    "image": "images/A2b-002.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Weedle"
+  },
+  {
+    "id": "A2b-003",
+    "name": "Beedrill ex",
+    "image": "images/A2b-003.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Kakuna"
+  },
+  {
+    "id": "A2b-004",
+    "name": "Pinsir",
+    "image": "images/A2b-004.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-005",
+    "name": "Sprigatito",
+    "image": "images/A2b-005.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-006",
+    "name": "Floragato",
+    "image": "images/A2b-006.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Sprigatito"
+  },
+  {
+    "id": "A2b-007",
+    "name": "Meowscarada",
+    "image": "images/A2b-007.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Floragato"
+  },
+  {
+    "id": "A2b-008",
+    "name": "Charmander",
+    "image": "images/A2b-008.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-009",
+    "name": "Charmeleon",
+    "image": "images/A2b-009.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Charmander"
+  },
+  {
+    "id": "A2b-010",
+    "name": "Charizard ex",
+    "image": "images/A2b-010.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Charmeleon"
+  },
+  {
+    "id": "A2b-011",
+    "name": "Magmar",
+    "image": "images/A2b-011.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-012",
+    "name": "Magmortar",
+    "image": "images/A2b-012.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Magmar"
+  },
+  {
+    "id": "A2b-013",
+    "name": "Paldean Tauros",
+    "image": "images/A2b-013.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-014",
+    "name": "Tentacool",
+    "image": "images/A2b-014.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-015",
+    "name": "Tentacruel",
+    "image": "images/A2b-015.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Tentacool"
+  },
+  {
+    "id": "A2b-016",
+    "name": "Buizel",
+    "image": "images/A2b-016.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-017",
+    "name": "Floatzel",
+    "image": "images/A2b-017.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Buizel"
+  },
+  {
+    "id": "A2b-018",
+    "name": "Wiglett",
+    "image": "images/A2b-018.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-019",
+    "name": "Wugtrio ex",
+    "image": "images/A2b-019.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Wiglett"
+  },
+  {
+    "id": "A2b-020",
+    "name": "Dondozo",
+    "image": "images/A2b-020.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-021",
+    "name": "Tatsugiri",
+    "image": "images/A2b-021.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-022",
+    "name": "Pikachu ex",
+    "image": "images/A2b-022.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-023",
+    "name": "Voltorb",
+    "image": "images/A2b-023.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-024",
+    "name": "Electrode",
+    "image": "images/A2b-024.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Voltorb"
+  },
+  {
+    "id": "A2b-025",
+    "name": "Pachirisu",
+    "image": "images/A2b-025.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-026",
+    "name": "Pawmi",
+    "image": "images/A2b-026.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-027",
+    "name": "Pawmo",
+    "image": "images/A2b-027.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Pawmi"
+  },
+  {
+    "id": "A2b-028",
+    "name": "Pawmot",
+    "image": "images/A2b-028.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Lightning",
+    "evolvesfrom": "Pawmo"
+  },
+  {
+    "id": "A2b-029",
+    "name": "Abra",
+    "image": "images/A2b-029.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-030",
+    "name": "Kadabra",
+    "image": "images/A2b-030.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Abra"
+  },
+  {
+    "id": "A2b-031",
+    "name": "Alakazam",
+    "image": "images/A2b-031.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Psychic",
+    "evolvesfrom": "Kadabra"
+  },
+  {
+    "id": "A2b-032",
+    "name": "Mr. Mime",
+    "image": "images/A2b-032.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-033",
+    "name": "Drifloon",
+    "image": "images/A2b-033.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-034",
+    "name": "Drifblim",
+    "image": "images/A2b-034.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Drifloon"
+  },
+  {
+    "id": "A2b-035",
+    "name": "Giratina ex",
+    "image": "images/A2b-035.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-036",
+    "name": "Gimmighoul",
+    "image": "images/A2b-036.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-037",
+    "name": "Machop",
+    "image": "images/A2b-037.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-038",
+    "name": "Machoke",
+    "image": "images/A2b-038.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Machop"
+  },
+  {
+    "id": "A2b-039",
+    "name": "Machamp",
+    "image": "images/A2b-039.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Machoke"
+  },
+  {
+    "id": "A2b-040",
+    "name": "Hitmonlee",
+    "image": "images/A2b-040.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-041",
+    "name": "Hitmonchan",
+    "image": "images/A2b-041.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-042",
+    "name": "Riolu",
+    "image": "images/A2b-042.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-043",
+    "name": "Lucario ex",
+    "image": "images/A2b-043.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Riolu"
+  },
+  {
+    "id": "A2b-044",
+    "name": "Flamigo",
+    "image": "images/A2b-044.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-045",
+    "name": "Ekans",
+    "image": "images/A2b-045.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-046",
+    "name": "Arbok",
+    "image": "images/A2b-046.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Ekans"
+  },
+  {
+    "id": "A2b-047",
+    "name": "Paldean Wooper",
+    "image": "images/A2b-047.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-048",
+    "name": "Paldean Clodsire ex",
+    "image": "images/A2b-048.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Paldean Wooper"
+  },
+  {
+    "id": "A2b-049",
+    "name": "Spiritomb",
+    "image": "images/A2b-049.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-050",
+    "name": "Shroodle",
+    "image": "images/A2b-050.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-051",
+    "name": "Grafaiai",
+    "image": "images/A2b-051.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Shroodle"
+  },
+  {
+    "id": "A2b-052",
+    "name": "Tinkatink",
+    "image": "images/A2b-052.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-053",
+    "name": "Tinkatuff",
+    "image": "images/A2b-053.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Tinkatink"
+  },
+  {
+    "id": "A2b-054",
+    "name": "Tinkaton ex",
+    "image": "images/A2b-054.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Metal",
+    "evolvesfrom": "Tinkatuff"
+  },
+  {
+    "id": "A2b-055",
+    "name": "Varoom",
+    "image": "images/A2b-055.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-056",
+    "name": "Revavroom",
+    "image": "images/A2b-056.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Varoom"
+  },
+  {
+    "id": "A2b-057",
+    "name": "Gholdengo",
+    "image": "images/A2b-057.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Gimmighoul"
+  },
+  {
+    "id": "A2b-058",
+    "name": "Rattata",
+    "image": "images/A2b-058.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-059",
+    "name": "Raticate",
+    "image": "images/A2b-059.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Rattata"
+  },
+  {
+    "id": "A2b-060",
+    "name": "Jigglypuff",
+    "image": "images/A2b-060.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-061",
+    "name": "Wigglytuff",
+    "image": "images/A2b-061.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Jigglypuff"
+  },
+  {
+    "id": "A2b-062",
+    "name": "Lickitung",
+    "image": "images/A2b-062.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-063",
+    "name": "Lickilicky",
+    "image": "images/A2b-063.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Lickitung"
+  },
+  {
+    "id": "A2b-064",
+    "name": "Bidoof",
+    "image": "images/A2b-064.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-065",
+    "name": "Bibarel ex",
+    "image": "images/A2b-065.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Bidoof"
+  },
+  {
+    "id": "A2b-066",
+    "name": "Buneary",
+    "image": "images/A2b-066.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-067",
+    "name": "Lopunny",
+    "image": "images/A2b-067.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Buneary"
+  },
+  {
+    "id": "A2b-068",
+    "name": "Cyclizar",
+    "image": "images/A2b-068.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-069",
+    "name": "Iono",
+    "image": "images/A2b-069.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-070",
+    "name": "Pokémon Center Lady",
+    "image": "images/A2b-070.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-071",
+    "name": "Red",
+    "image": "images/A2b-071.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-072",
+    "name": "Team Rocket Grunt",
+    "image": "images/A2b-072.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-073",
+    "name": "Meowscarada",
+    "image": "images/A2b-073.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Floragato"
+  },
+  {
+    "id": "A2b-074",
+    "name": "Buizel",
+    "image": "images/A2b-074.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-075",
+    "name": "Tatsugiri",
+    "image": "images/A2b-075.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-076",
+    "name": "Grafaiai",
+    "image": "images/A2b-076.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Shroodle"
+  },
+  {
+    "id": "A2b-077",
+    "name": "Gholdengo",
+    "image": "images/A2b-077.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Gimmighoul"
+  },
+  {
+    "id": "A2b-078",
+    "name": "Wigglytuff",
+    "image": "images/A2b-078.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Jigglypuff"
+  },
+  {
+    "id": "A2b-079",
+    "name": "Beedrill ex",
+    "image": "images/A2b-079.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Kakuna"
+  },
+  {
+    "id": "A2b-080",
+    "name": "Charizard ex",
+    "image": "images/A2b-080.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Charmeleon"
+  },
+  {
+    "id": "A2b-081",
+    "name": "Wugtrio ex",
+    "image": "images/A2b-081.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Wiglett"
+  },
+  {
+    "id": "A2b-082",
+    "name": "Pikachu ex",
+    "image": "images/A2b-082.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-083",
+    "name": "Giratina ex",
+    "image": "images/A2b-083.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-084",
+    "name": "Lucario ex",
+    "image": "images/A2b-084.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Riolu"
+  },
+  {
+    "id": "A2b-085",
+    "name": "Paldean Clodsire ex",
+    "image": "images/A2b-085.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Paldean Wooper"
+  },
+  {
+    "id": "A2b-086",
+    "name": "Tinkaton ex",
+    "image": "images/A2b-086.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Metal",
+    "evolvesfrom": "Tinkatuff"
+  },
+  {
+    "id": "A2b-087",
+    "name": "Bibarel ex",
+    "image": "images/A2b-087.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Bidoof"
+  },
+  {
+    "id": "A2b-088",
+    "name": "Iono",
+    "image": "images/A2b-088.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-089",
+    "name": "Pokémon Center Lady",
+    "image": "images/A2b-089.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-090",
+    "name": "Red",
+    "image": "images/A2b-090.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-091",
+    "name": "Team Rocket Grunt",
+    "image": "images/A2b-091.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-092",
+    "name": "Pikachu ex",
+    "image": "images/A2b-092.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-093",
+    "name": "Paldean Clodsire ex",
+    "image": "images/A2b-093.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Darkness",
+    "evolvesfrom": "Paldean Wooper"
+  },
+  {
+    "id": "A2b-094",
+    "name": "Tinkaton ex",
+    "image": "images/A2b-094.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Metal",
+    "evolvesfrom": "Tinkatuff"
+  },
+  {
+    "id": "A2b-095",
+    "name": "Bibarel ex",
+    "image": "images/A2b-095.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Bidoof"
+  },
+  {
+    "id": "A2b-096",
+    "name": "Giratina ex",
+    "image": "images/A2b-096.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-097",
+    "name": "Weedle",
+    "image": "images/A2b-097.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-098",
+    "name": "Kakuna",
+    "image": "images/A2b-098.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Weedle"
+  },
+  {
+    "id": "A2b-099",
+    "name": "Charmander",
+    "image": "images/A2b-099.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-100",
+    "name": "Charmeleon",
+    "image": "images/A2b-100.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Charmander"
+  },
+  {
+    "id": "A2b-101",
+    "name": "Wiglett",
+    "image": "images/A2b-101.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-102",
+    "name": "Dondozo",
+    "image": "images/A2b-102.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-103",
+    "name": "Pachirisu",
+    "image": "images/A2b-103.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-104",
+    "name": "Riolu",
+    "image": "images/A2b-104.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-105",
+    "name": "Varoom",
+    "image": "images/A2b-105.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "A2b-106",
+    "name": "Revavroom",
+    "image": "images/A2b-106.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Metal",
+    "evolvesfrom": "Varoom"
+  },
+  {
+    "id": "A2b-107",
+    "name": "Beedrill ex",
+    "image": "images/A2b-107.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Kakuna"
+  },
+  {
+    "id": "A2b-108",
+    "name": "Charizard ex",
+    "image": "images/A2b-108.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fire",
+    "evolvesfrom": "Charmeleon"
+  },
+  {
+    "id": "A2b-109",
+    "name": "Wugtrio ex",
+    "image": "images/A2b-109.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Wiglett"
+  },
+  {
+    "id": "A2b-110",
+    "name": "Lucario ex",
+    "image": "images/A2b-110.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fighting",
+    "evolvesfrom": "Riolu"
+  },
+  {
+    "id": "A2b-111",
+    "name": "Poké Ball",
+    "image": "images/A2b-111.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-001",
+    "name": "Potion",
+    "image": "images/PROMO-A-001.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-002",
+    "name": "X Speed",
+    "image": "images/PROMO-A-002.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-003",
+    "name": "Hand Scope",
+    "image": "images/PROMO-A-003.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-004",
+    "name": "Pokédex",
+    "image": "images/PROMO-A-004.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-005",
+    "name": "Poké Ball",
+    "image": "images/PROMO-A-005.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-006",
+    "name": "Red Card",
+    "image": "images/PROMO-A-006.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-007",
+    "name": "Professor's Research",
+    "image": "images/PROMO-A-007.PNG",
+    "type": "Trainer",
+    "category": "Supporter",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-008",
+    "name": "Pokédex",
+    "image": "images/PROMO-A-008.PNG",
+    "type": "Trainer",
+    "category": "Item",
+    "energy": "None",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-009",
+    "name": "Pikachu",
+    "image": "images/PROMO-A-009.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-010",
+    "name": "Mewtwo",
+    "image": "images/PROMO-A-010.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-011",
+    "name": "Chansey",
+    "image": "images/PROMO-A-011.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-012",
+    "name": "Meowth",
+    "image": "images/PROMO-A-012.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-013",
+    "name": "Butterfree",
+    "image": "images/PROMO-A-013.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Metapod"
+  },
+  {
+    "id": "P-A-014",
+    "name": "Lapras ex",
+    "image": "images/PROMO-A-014.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-015",
+    "name": "Pikachu",
+    "image": "images/PROMO-A-015.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-016",
+    "name": "Clefairy",
+    "image": "images/PROMO-A-016.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-017",
+    "name": "Mankey",
+    "image": "images/PROMO-A-017.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-018",
+    "name": "Venusaur",
+    "image": "images/PROMO-A-018.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Grass",
+    "evolvesfrom": "Ivysaur"
+  },
+  {
+    "id": "P-A-019",
+    "name": "Greninja",
+    "image": "images/PROMO-A-019.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Frogadier"
+  },
+  {
+    "id": "P-A-020",
+    "name": "Haunter",
+    "image": "images/PROMO-A-020.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Psychic",
+    "evolvesfrom": "Gastly"
+  },
+  {
+    "id": "P-A-021",
+    "name": "Onix",
+    "image": "images/PROMO-A-021.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-022",
+    "name": "Jigglypuff",
+    "image": "images/PROMO-A-022.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-023",
+    "name": "Bulbasaur",
+    "image": "images/PROMO-A-023.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-024",
+    "name": "Magnemite",
+    "image": "images/PROMO-A-024.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-025",
+    "name": "Moltres ex",
+    "image": "images/PROMO-A-025.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-026",
+    "name": "Pikachu",
+    "image": "images/PROMO-A-026.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-027",
+    "name": "Snivy",
+    "image": "images/PROMO-A-027.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-028",
+    "name": "Volcarona",
+    "image": "images/PROMO-A-028.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Fire",
+    "evolvesfrom": "Larvesta"
+  },
+  {
+    "id": "P-A-029",
+    "name": "Blastoise",
+    "image": "images/PROMO-A-029.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Water",
+    "evolvesfrom": "Wartortle"
+  },
+  {
+    "id": "P-A-030",
+    "name": "Eevee",
+    "image": "images/PROMO-A-030.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-031",
+    "name": "Cinccino",
+    "image": "images/PROMO-A-031.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Colorless",
+    "evolvesfrom": "Minccino"
+  },
+  {
+    "id": "P-A-032",
+    "name": "Charmander",
+    "image": "images/PROMO-A-032.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-033",
+    "name": "Squirtle",
+    "image": "images/PROMO-A-033.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-034",
+    "name": "Piplup",
+    "image": "images/PROMO-A-034.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-035",
+    "name": "Turtwig",
+    "image": "images/PROMO-A-035.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-036",
+    "name": "Electivire",
+    "image": "images/PROMO-A-036.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Electabuzz"
+  },
+  {
+    "id": "P-A-037",
+    "name": "Cresselia ex",
+    "image": "images/PROMO-A-037.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-038",
+    "name": "Misdreavus",
+    "image": "images/PROMO-A-038.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-039",
+    "name": "Skarmory",
+    "image": "images/PROMO-A-039.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Metal",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-040",
+    "name": "Chimchar",
+    "image": "images/PROMO-A-040.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fire",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-041",
+    "name": "Togepi",
+    "image": "images/PROMO-A-041.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-042",
+    "name": "Darkrai ex",
+    "image": "images/PROMO-A-042.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-043",
+    "name": "Cherrim",
+    "image": "images/PROMO-A-043.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Grass",
+    "evolvesfrom": "Cherubi"
+  },
+  {
+    "id": "P-A-044",
+    "name": "Raichu",
+    "image": "images/PROMO-A-044.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Lightning",
+    "evolvesfrom": "Pikachu"
+  },
+  {
+    "id": "P-A-045",
+    "name": "Nosepass",
+    "image": "images/PROMO-A-045.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-046",
+    "name": "Gible",
+    "image": "images/PROMO-A-046.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-047",
+    "name": "Staraptor",
+    "image": "images/PROMO-A-047.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Colorless",
+    "evolvesfrom": "Staravia"
+  },
+  {
+    "id": "P-A-048",
+    "name": "Manaphy",
+    "image": "images/PROMO-A-048.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Water",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-049",
+    "name": "Snorlax",
+    "image": "images/PROMO-A-049.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-050",
+    "name": "Mewtwo ex",
+    "image": "images/PROMO-A-050.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Psychic",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-051",
+    "name": "Cyclizar",
+    "image": "images/PROMO-A-051.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-052",
+    "name": "Sprigatito",
+    "image": "images/PROMO-A-052.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Grass",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-053",
+    "name": "Floatzel",
+    "image": "images/PROMO-A-053.PNG",
+    "type": "Pokemon",
+    "category": "Stage 1",
+    "energy": "Water",
+    "evolvesfrom": "Buizel"
+  },
+  {
+    "id": "P-A-054",
+    "name": "Pawmot",
+    "image": "images/PROMO-A-054.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Lightning",
+    "evolvesfrom": "Pawmo"
+  },
+  {
+    "id": "P-A-055",
+    "name": "Machamp",
+    "image": "images/PROMO-A-055.PNG",
+    "type": "Pokemon",
+    "category": "Stage 2",
+    "energy": "Fighting",
+    "evolvesfrom": "Machoke"
+  },
+  {
+    "id": "P-A-056",
+    "name": "Ekans",
+    "image": "images/PROMO-A-056.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Darkness",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-057",
+    "name": "Bidoof",
+    "image": "images/PROMO-A-057.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Colorless",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-058",
+    "name": "Pachirisu",
+    "image": "images/PROMO-A-058.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Lightning",
+    "evolvesfrom": ""
+  },
+  {
+    "id": "P-A-059",
+    "name": "Riolu",
+    "image": "images/PROMO-A-059.PNG",
+    "type": "Pokemon",
+    "category": "Basic",
+    "energy": "Fighting",
+    "evolvesfrom": ""
+  }
+]
