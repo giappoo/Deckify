@@ -631,7 +631,7 @@
           cardElement.classList.add("card");
           cardElement.dataset.cardName = card.name.toLowerCase();
           cardElement.innerHTML = `
-            <img data-src="${card.image}" alt="${card.name}" title="${card.name}" width="80" loading="lazy">
+            <img src="${card.image}" alt="${card.name}" title="${card.name}" width="80">
             <p>${card.name}</p>
           `;
           cardElement.addEventListener("click", () => {
