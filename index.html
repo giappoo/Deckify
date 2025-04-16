@@ -2,15 +2,15 @@
 <html lang="it">
 <head>
   <meta charset="UTF-8">
-  <title>METADEX</title>
+  <title>Deckify</title>
   <style>
     /* Impostazioni generali */
     body {
       margin: 0;
-	  height: 1500px;
+	  height: 1600px;
       padding-bottom: 150px; /* spazio per il deck fisso */
       font-family: Arial, sans-serif;
-      background: url("bgda.png") center center/cover no-repeat fixed;
+      background: url("images/bgda.png") center center/cover no-repeat fixed;
     }
     h1 {
       text-align: center;
@@ -57,12 +57,13 @@
     #search-input {
       width: 90%;
 	  color: #000;
-	  opacity: 50%;
+	  opacity: 80%;
       padding: 5px;
 	  border: 0px solid #ccc;
       font-size: 16px;
       margin-top: 16px;
 	  margin-bottom: 0px;
+	  background: none;
     }
     #filter-controls {
       display: flex;
@@ -82,15 +83,17 @@
 	  padding-top: 45px;
 	  padding-right: 16px;
 	  padding-left: 16px;
+	  padding-bottom: 45px;
 	  box-sizing: border-box;
 	  display: flex;
       flex-wrap: wrap;
-      gap: 45px 35px;
+      gap: 35px 35px;
 	  font-size: 13px;
       justify-content: center;
       margin: 200px;
 	  margin-top: 0px;
 	  align-items: flex-start;
+	  align-content: flex-start;
       transition: opacity 0.3s ease;
 	  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 2%, black 98%, transparent 100%);
 	  mask-image: linear-gradient(to bottom, transparent 0%, black 2%, black 98%, transparent 100%);
@@ -104,7 +107,7 @@
 	  padding: 0px;
 	  margin-top: 0px;
 	  text-align: center;
-	  width: 140px; /* Aumenta questo valore per carte più grandi */
+	  width: 110px; /* Aumenta questo valore per carte più grandi */
 	  cursor: pointer;
 	  transform-origin: center center;
 	  transition: transform 0.2s;
@@ -210,27 +213,28 @@
       transition: opacity 0.3s ease;
     }
     .top-button {
-      border: 3px solid #eee;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.25);
-      margin-top: 40px;
-	  margin-bottom: 40px;
-      border-radius: 30px;
+      border: 0px solid #111;
+      margin-top: 70px;
+	  margin-bottom: 70px;
+      border-radius: 8px;
       background: none;
       padding: 0;
       cursor: pointer;
       display: inline-block;
-      width: 190px;
-      height: 190px;
+      width: 140px;
+      height: 198px;
+	  transform: scale(1.5);
     }
     .top-button img {
-      width: 100%;
-      height: 100%;
-      border-radius: 30px;
+      width: 144px;
+	  height: 200px;
+	  box-shadow: 0 2px 6px rgba(0,0,0,0.45);
+      border-radius: 8px;
       display: block;
       object-fit: cover;
     }
     .top-button:hover {
-      transform: scale(1.1);
+      transform: scale(1.7);
     }
     /* Container per la modalità Hand Tool */
     #hand-tool-container {
@@ -369,6 +373,7 @@
       background: #fff;
       padding: 10px 20px;
       cursor: pointer;
+	  margin-bottom:100px;
     }
     #back-button:hover {
       transform: scale(1.1);
@@ -404,7 +409,7 @@
 	  transform: scale(3);
 	  transform-origin: center;
 	  object-fit: contain;
-	  z-index: 2001;
+	  z-index: 1001;
 	}
 
   </style>
@@ -418,7 +423,7 @@
 <!-- Pulsante Hand Tool -->
   <div class="button-container">
     <button class="top-button">
-      <img src="handtoolbutton.png" alt="Hand Tool">
+      <img src="images/handtoolbutton.png" alt="Hand Tool">
     </button>
   </div>
   
