@@ -492,6 +492,27 @@
       let allCards = [];
       let selectedEnergyFilters = [];
       let selectedCategoryFilters = [];
+      const lazyImages = document.querySelectorAll("img.lazy");
+
+      if ("IntersectionObserver" in window) {
+    	const observer = new IntersectionObserver((entries, observerInstance) => {
+     	 entries.forEach(entry => {
+	  if (entry.isIntersecting) {
+            const img = entry.target;
+            img.src = img.dataset.src;
+            img.classList.remove("lazy");
+            observerInstance.unobserve(img);
+          }
+        });
+      });
+      lazyImages.forEach(img => observer.observe(img));
+    } else {
+      // Fallback: carica tutte le immagini subito
+      lazyImages.forEach(img => {
+        img.src = img.dataset.src;
+        img.classList.remove("lazy");
+      });
+    }
       
       // Carica i dati delle carte dal file JSON
       fetch("all_cards.json")
@@ -631,7 +652,7 @@
           cardElement.classList.add("card");
           cardElement.dataset.cardName = card.name.toLowerCase();
           cardElement.innerHTML = `
-            <img src="${card.image}" alt="${card.name}" title="${card.name}" width="80" loading="lazy">
+            <img data-src="${card.image}" alt="${card.name}" title="${card.name}" width="80" loading="lazy">
             <p>${card.name}</p>
           `;
           cardElement.addEventListener("click", () => {
